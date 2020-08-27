@@ -30,22 +30,22 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="App/Beacon_app/assets/images/Group_4.png" alt="Logo" width="90" height="90">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Beacon Todo App</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An Amazing Introductory Flutter Project is Been Made For everyone as a KickStart to Flutter !
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DRISHTANT-DUBEY/Beacon"><strong>Explore Code »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/DRISHTANT-DUBEY/Beacon">View Screen Piece</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/DRISHTANT-DUBEY/Beacon/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/DRISHTANT-DUBEY/Beacon/issues">Request Feature</a>
   </p>
 </p>
 
@@ -86,9 +86,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Flutter](https://flutter.dev)
+* [Python](https://www.python.org)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
 
 
