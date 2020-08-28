@@ -1,4 +1,0 @@
-#Thu Aug 27 18:25:24 IST 2020
-base.0=E\:\\Beacon\\App\\Beacon_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
