@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/DRISHTANT-DUBEY/Beacon/">
     <img src="App/Beacon_app/assets/images/Group_4.png" alt="Logo" width="130" height="130">
   </a>
 
